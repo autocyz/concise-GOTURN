@@ -8,6 +8,7 @@
 #include <string>
 #include <vector>
 #include <opencv/highgui.h>
+#include <opencv2/opencv.hpp>
 
 using std::string;
 using std::vector;
